@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Software developer with professional experience in **C#**, **.NET**, **SQL**, *ASP.NET*, *Web APIs*, *REST*
